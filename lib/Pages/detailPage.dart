@@ -50,7 +50,7 @@ class _detailPageState extends State<detailPage> {
                       child: Padding(
                         padding: EdgeInsets.all(10),
                         child: Icon(Icons.play_circle_fill_rounded,
-                          size: 70,
+                          size: 80,
                           color: Colors.white,),
                       ),
                     ),
